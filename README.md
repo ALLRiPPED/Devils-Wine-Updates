@@ -6,5 +6,5 @@ If you were having issues with this game saying you can not play single player w
 
 	cd ~/
 	wget https://github.com/ALLRiPPED/Devils-Wine-Updates/raw/main/reg-patches/Age-of-Empires-no-cd-error-fix.reg
-	wine red import Age-of-Empires-no-cd-error-fix.reg
+	wine reg import Age-of-Empires-no-cd-error-fix.reg
 
