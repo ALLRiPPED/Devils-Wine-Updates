@@ -8,7 +8,7 @@ If you were having issues with this game saying you can not play single player w
 	wget https://github.com/ALLRiPPED/Devils-Wine-Updates/raw/main/reg-patches/Age-of-Empires-no-cd-error-fix.reg
 	wine reg import Age-of-Empires-no-cd-error-fix.reg
 	rm -f Age-of-Empires-no-cd-error-fix.reg
-#### Availible on [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
+#### This Fix is now automatically applied when you install from [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
 
 ## Unreal Anthology
 This fix is mainly for Unreal Tournament 2004
@@ -17,4 +17,4 @@ This fix is mainly for Unreal Tournament 2004
 	wget https://github.com/ALLRiPPED/Devils-Wine-Updates/raw/main/reg-patches/Unreal-Anthology-fix.reg
 	wine reg import Unreal-Anthology-fix.reg
 	rm -f Unreal-Anthology-fix.reg
-#### Availible on [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
+#### This Fix is now automatically applied when you install from [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
