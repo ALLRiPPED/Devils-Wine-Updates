@@ -1,0 +1,31 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Unreal Anthology]
+"I_Unreal"="F:\\home\\pi\\RetroPie\\roms\\wine\\games\\.installs\\unreal"
+"I_Unreal2"="F:\\home\\pi\\RetroPie\\roms\\wine\\games\\.installs\\unreal"
+"I_UT99"="F:\\home\\pi\\RetroPie\\roms\\wine\\games\\.installs\\unreal"
+"I_UT2004"="F:\\home\\pi\\RetroPie\\roms\\wine\\games\\.installs\\unreal"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Unreal Technology]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Unreal Technology\Installed Apps]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Unreal Technology\Installed Apps\Unreal Gold]
+"Folder"="F:\\home\\pi\\RetroPie\\roms\\wine\\games\\.installs\\unreal\\UnrealGold"
+"Version"="226b"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Unreal Technology\Installed Apps\UnrealTournament]
+"Folder"="F:\\home\\pi\\RetroPie\\roms\\wine\\games\\.installs\\unreal\\UnrealTournament"
+"Version"="432"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Unreal Technology\Installed Apps\UT2004]
+"Folder"="F:\\home\\pi\\RetroPie\\roms\\wine\\games\\.installs\\unreal\\UT2004\\"
+"Version"="3236"
+"CDKey"="94g3r-43mkh-a4b26-vx7zn"
+"ADMIN_RIGHTS"="You need to run this program as an administrator, not as a guest or limited user account."
+"NO_DISC"="No disc in drive. Please insert the disc labeled 'Unreal Tournament 2004 Play Disc' to continue."
+"NO_DRIVE"="No CD-ROM or DVD-ROM drive detected."
+"TITLEBAR"="Unreal Tournament 2004"
+"WRONG_DISC"="Wrong disc in drive. Please insert the disc labeled 'Unreal Tournament 2004 Play Disc' to continue."
+"YEAR"="2004"
+
