@@ -10,6 +10,15 @@ If you were having issues with this game saying you can not play single player w
 	rm -f Age-of-Empires-no-cd-error-fix.reg
 #### This Fix is now automatically applied when you install from [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
 
+## Silent Hill 4 The Room
+This fix is mainly for Silent Hill 4 The Room
+
+	cd ~/
+	wget https://github.com/ALLRiPPED/Devils-Wine-Updates/raw/main/reg-patches/Silent-Hill-4-The-Room-Fix.reg
+	wine reg import Silent-Hill-4-The-Room-Fix.reg
+	rm -f Silent-Hill-4-The-Room-Fix.reg
+#### This Fix is now automatically applied when you install from [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
+
 ## Unreal Anthology
 This fix is mainly for Unreal Tournament 2004
 
