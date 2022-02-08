@@ -10,6 +10,15 @@ If you were having issues with this game saying you can not play single player w
 	rm -f Age-of-Empires-no-cd-error-fix.reg
 #### This Fix is now automatically applied when you install from [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
 
+## Command & Conquer Games
+If you were having issues with this game saying it cannot find exe
+
+	cd ~/
+	wget https://github.com/ALLRiPPED/Devils-Wine-Updates/raw/main/reg-patches/Command-And-Conquer-fix.reg
+	wine reg import Command-And-Conquer-fix.reg
+	rm -f ACommand-And-Conquer-fix.reg
+#### This Fix is now automatically applied when you install from [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
+
 ## Silent Hill 4 The Room
 This fix is mainly for Silent Hill 4 The Room
 
