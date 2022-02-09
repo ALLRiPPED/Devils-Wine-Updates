@@ -16,7 +16,17 @@ If you were having issues with this game saying it cannot find exe
 	cd ~/
 	wget https://github.com/ALLRiPPED/Devils-Wine-Updates/raw/main/reg-patches/Command-And-Conquer-fix.reg
 	wine reg import Command-And-Conquer-fix.reg
-	rm -f ACommand-And-Conquer-fix.reg
+	rm -f Command-And-Conquer-fix.reg
+#### This Fix is now automatically applied when you install from [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
+
+
+## Heroes of Might And Magic 2  Gold, 3, 4
+If you were having issues with this game saying it cannot find path or cd
+
+	cd ~/
+	wget https://github.com/ALLRiPPED/Devils-Wine-Updates/raw/main/reg-patches/Heroes-of-Might-and-Magic-fix.reg
+	wine reg import Heroes-of-Might-and-Magic-fix.reg
+	rm -f Heroes-of-Might-and-Magic-fix.reg
 #### This Fix is now automatically applied when you install from [Devils-Box](https://github.com/ALLRiPPED/Devils-Box)
 
 ## Silent Hill 4 The Room
